@@ -117,7 +117,13 @@ code block
 
 [네이버](www.naver.com) 이런식으로 
 
-[사이트제목](url)쓰면은 링크삽입이 됨 ![사진이름](사진url) 텍스트강조 **Bold** *italic* ~~strikeout~~ *은 언더바(_)로 대체할 수 있음 --- *** ___ 이거 세개는 다 수평선을 그어줌 단락 나눌때, 주제 나눌때 많이 씀 www.markdownguide.org/cheat-sheet/`
+[사이트제목](url)쓰면은 링크삽입이 됨
+
+ ![사진이름](사진url) 텍스트강조 **Bold** *italic* ~~strikeout~~ *은 언더바(_)로 대체할 수 있음 
+
+--- *** ___ 이거 세개는 다 수평선을 그어줌 단락 나눌때, 주제 나눌때 많이 씀
+
+ www.markdownguide.org/cheat-sheet/`
 
 
 
