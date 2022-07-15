@@ -100,7 +100,7 @@ www.markdownguide.org/cheat-sheet/`
 
 [^1]: 제목 만드는 코드라서 글자 크기 키우는데에 쓰면 안됨
 
-# [4] GIT
+# [4] GIThub에 올리기
 
 Working directory: 내가 작업하고 있는 디렉토리
 Staging Area: 커밋으로 남기고 싶은, 특정 버전으로 관리하고 싶은 파일이 있는 곳
