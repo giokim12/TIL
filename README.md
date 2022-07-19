@@ -26,13 +26,30 @@ git은 분산버전 관리 프로그램이고, git hub는 저장소 서비스
 
 # [2] CLI
 
-gui: graphic user interface. 그래픽을 통해 사용자와 컴퓨터가 상호작용하는 방식 cli: command line interface. 명령어를 통해 사용자와 컴퓨터가 상호작용하는 방식
+GUI: graphic user interface. 그래픽을 통해 사용자와 컴퓨터가 상호작용하는 방식
+CLI: command line interface. 명령어를 통해 사용자와 컴퓨터가 상호작용하는 방식
 
-gui는 cli에 비해 사용하기 쉽지만 단계가 많고 컴퓨터의 성능을 더 많이 소모 수많은 서버와 개발 시스템이 cli를 통한 조작환경을 제공
+GUI는 CLI에 비해 사용하기 쉽지만 단계가 많고 컴퓨터의 성능을 더 많이 소모함.
+수많은 서버와 개발 시스템이 cli를 통한 조작환경을 제공
 
-배경화면 우클릭--> Git Bash here 으로 열기 명령어 touch:파일 생성 mkdir:새폴더 생성 ls: 현재 작업중인 디렉토리의 폴더/파일 목록을 start: 파일 열기 !!! 내가 만든 파일 이름에 띄어쓰기 없게 하기!!! !!! 공백은 언더바로 넣기!!! rm: 파일삭제 !!! 내가 찾고자하는 파일이름의 첫글자 입력하고 tab 누르면 자동완성됨!!! cd: change directory rmdir: 폴더삭제
+1. 배경화면 우클릭
+2. Git Bash here 으로 열기
 
-[https://velog.io/@dot_line_901/CLI-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4](https://velog.io/@dot_line_901/CLI-기본-명령어)
+#### 명령어
+
+- touch:파일 생성
+- mkdir:새폴더 생성
+- ls: 현재 작업중인 디렉토리의 폴더/파일 목록을
+- start: 파일 열기
+- rm: 파일삭제
+- cd: change directory
+- rmdir: 폴더삭제
+
+**!!! 내가 찾고자하는 파일이름의 첫글자 입력하고 tab 누르면 자동완성됨!!!**
+**!!! 내가 만든 파일 이름에 띄어쓰기 없게 하기!!!**
+**!!! 공백은 언더바로 넣기!!!**
+
+[CLI 기본명령어](https://velog.io/@dot_line_901/CLI-기본-명령어)
 
 방향키 위를 통해 이전 명령어 사용 가능
 
